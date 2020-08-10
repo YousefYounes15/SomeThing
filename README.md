@@ -1,3 +1,0 @@
-# SomeThing
-
-C# is beautiful
